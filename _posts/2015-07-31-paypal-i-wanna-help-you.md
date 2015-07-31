@@ -106,3 +106,4 @@ PayPal's software department. Here it is:
 Let's hope they fix the issue and I don't get kicked out for tampering with the
 POST messages in my browser ;-)
 
+**Update**: The PayPal devs who work on add bank page are aware of and working on this issue and REALLY REALLY grateful for this analysis. Amazing work. Definitely sorry it was such a pain to get through.
