@@ -54,11 +54,11 @@ And swiss account numbers sometimes do. Let's have a look on my Banks info page
 about how a UBS bank account number builds up. These screenshots are the same as
 what I sent to the customer service.
 
-![UBS account number](/img/2015-07-31/01.png)
+![UBS account number]({{ "/img/2015-07-31/01.png" }})
 
 I have a similar account number, so I tried to add it on their webpage:
 
-![PayPal bank account wizard](/img/2015-07-31/02.png)
+![PayPal bank account wizard]({{ "/img/2015-07-31/02.png" }})
 
 The error message says in German: "Only letters are allowed, no whitespaces or
 dashes". Well, this clearly is a verification error. This is a Swiss PayPal
@@ -72,12 +72,12 @@ I tried to give in a dummy account number, `1111 1111 1111`. It worked! I got a
 `200 OK` HTTP status code back. Good. Now let's try rewriting the POST workload
 manually:
 
-![Firebug showing the POST message](/img/2015-07-31/03.png)
+![Firebug showing the POST message]({{ "/img/2015-07-31/03.png" }})
 
 Should it work...? Meeeh, it mustn't, for sure. THey must have the same
 validation both on client and server side.
 
-![Workaround was successful](/img/2015-07-31/04.png)
+![Workaround was successful]({{ "/img/2015-07-31/04.png" }})
 
 WOW. On the contrary, it worked! This is kind of a
 throw-out-the-junior-if-doesn't-validate-on-booth-side type of error, but you
@@ -88,7 +88,7 @@ know, we are just people, we tend to make errors, who cares.
 So now If I look at my Paypal home page, I can see that the account has been
 successfully added:
 
-![Paypal home page](/img/2015-07-31/05.png)
+![Paypal home page]({{ "/img/2015-07-31/05.png" }})
 
 I sincerely hope that my message will get to a developer or a manager at your
 software department. Here it is:
