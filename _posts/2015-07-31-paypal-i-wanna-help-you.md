@@ -2,7 +2,7 @@
 layout: post
 title:  "PayPal, I just wanna help you!"
 date:   2015-07-31 16:18:00
-categories: personal test
+categories: personal
 ---
 
 Long story short, PayPal's new webpage has a pretty annoying bug which I wasn't
