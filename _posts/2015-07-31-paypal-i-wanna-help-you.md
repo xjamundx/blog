@@ -74,13 +74,13 @@ manually:
 
 ![Firebug showing the POST message](/blog/img/2015-07-31/03.png)
 
-Should it work...? Meeeh, it mustn't, for sure. THey must have the same
+Should it work...? Meeeh, it mustn't, for sure. They must have the same
 validation both on client and server side.
 
 ![Workaround was successful](/blog/img/2015-07-31/04.png)
 
 WOW. On the contrary, it worked! This is kind of a
-throw-out-the-junior-if-doesn't-validate-on-booth-side type of error, but you
+throw-out-the-junior-if-doesn't-validate-on-both-side type of error, but you
 know, we are just people, we tend to make errors, who cares.
 
 ### Please, accept my bug report!
