@@ -90,8 +90,12 @@ successfully added:
 
 ![Paypal home page](/blog/img/2015-07-31/05.png)
 
-I sincerely hope that my message will get to a developer or a manager at your
-software department. Here it is:
+Of course, now I need to wait for the two small amount deposits to arrive on my
+account, which could never happen - if they also have validation enabled when
+sending out those. Who knows, I can't debug **that** through my web browser.
+
+I sincerely hope that my message will get to a developer or a manager at
+PayPal's software department. Here it is:
 
 > PayPal, it looks like you have a small bug in your client side input validation
 > settings. Unfortunately I could not get through your customer service, but
