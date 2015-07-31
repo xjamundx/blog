@@ -1,0 +1,15 @@
+# Site settings
+title: kmARC
+email: ---
+description: 
+
+github_username:  kmARC11
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+
+# highlight
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
