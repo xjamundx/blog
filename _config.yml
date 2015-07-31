@@ -2,7 +2,7 @@
 title: kmARC
 email: ---
 description: 
-baseurl: blog/
+baseurl: /blog
 
 github_username:  kmARC11
 permalink: /:year/:month/:day/:title/
